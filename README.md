@@ -26,8 +26,8 @@ This project allows users to perform basic operations like adding, removing, and
 
 ## 📂 Project Structure
 <img width="683" height="617" alt="JAVA MINI PROJECT" src="https://github.com/user-attachments/assets/341bbdce-b9d3-44a7-ab82-0b5fea7a039b" /
+<img width="632" height="545" alt="JAVA MINI PROJECT" src="https://github.com/user-attachments/assets/6594022a-0ee1-467a-b490-4d3a5971066d" />
 
-<img width="683" height="617" alt="JAVA MINI PROJECT" src="https://github.com/user-attachments/assets/ea850c91-3bee-4166-ae7b-11e5cb5aacb8" />
 
 
 
